@@ -16,7 +16,7 @@ for Lazy, I recommend making use of lazy loading on events, for eg
 ```
 
 ## Configuration
-To change the default options, just pass your own options to the table in `require('colorshine').setup()`. To find your current cursorline bg colour, use the `:hi CursorLine` command, and paste it into a hex color picker to lighten, or darken.
+To change the default options, just pass your own options to the table in `require('cursorshine').setup()`. To find your current cursorline bg colour, use the `:hi CursorLine` command, and paste it into a hex color picker to lighten, or darken.
 ```
 require('cursorshine').setup({
         shine_line = '#263340', -- What color should the cursor line be
