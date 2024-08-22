@@ -1,4 +1,6 @@
 ## About
+![a demo of the plugin](demo.gif)
+
 CursorShine.nvim helps keep track of cursor movement by briefly illuminating the cursor line and column upon cursor movement in normal mode. This is helpful as you can set a low contrast cursor line that doesn't grab your attention unless you need it to.
 
 ## How to install
